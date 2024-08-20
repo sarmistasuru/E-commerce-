@@ -5,7 +5,8 @@ This project is a fully responsive E-commerce website built using HTML, CSS, and
 
 ![Screenshot 2024-08-20 215542](https://github.com/user-attachments/assets/b35f901d-7586-4543-9c89-817507136797)
 
-![Screenshot 2024-08-20 215612](https://github.com/user-attachments/assets/90c617ff-60e2-42c6-816c-65d68bf3eeab)
+![Screenshot (677)](https://github.com/user-attachments/assets/8560d70d-ee7a-4564-b182-5b1c150ef952)
+
 
 ![Screenshot 2024-08-20 215612](https://github.com/user-attachments/assets/5d0abeae-c32f-4d6f-b45f-f9f0b86173cb)
 
